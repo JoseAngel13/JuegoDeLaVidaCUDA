@@ -1,0 +1,4 @@
+Ejecución nueva 
+Número de iteraciones 3
+TAM	INT	LONG	FLOAT	DOUBLE
+100	0.003000	0.001000	0.002000	0.790000	
